@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abd-al-qudus
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning python, c and dart
+- 🌱 I’m currently learning python, c, dart and Node.js
 - 📫 Reach me at engineerphoenix1@gmail.com
 
 <!---
