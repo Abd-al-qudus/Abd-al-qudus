@@ -1,9 +1,86 @@
-- 👋 Hi, I’m @Abd-al-qudus
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning Python, C, Node.js and Java
-- 📫 Reach me at engineerphoenix1@gmail.com
+<div align="center">
+  <h1>Hi there, I'm Qudus Ayomide Jimoh! 👋</h1>
+  <h3>Backend Software Engineer | API Security Specialist | Performance Optimizer</h3>
 
-<!---
-Abd-al-qudus/Abd-al-qudus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href="https://www.linkedin.com/in/qudus-jimoh-576706258">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:engineerphoenixl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</div>
+
+---
+
+### 🚀 About Me
+I am a **Backend Software Engineer** with over **3 years of experience** building scalable, secure, and high-performance systems. With a background in Civil Engineering (First Class Honors), I bring a strong analytical approach to system architecture and database design.
+
+* 🔭 I’m currently working on **High-frequency Fintech APIs and Database Optimization engines**.
+* 🛡️ I specialize in **API Security (OWASP Top 10)**, **RBAC**, and **Cryptography**.
+* ⚡ I have experience optimizing datasets with **2M+ records** and handling **100k+ users**.
+* 💬 Ask me about **Node.js, System Design, C Programming, and Database Indexing**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+</p>
+
+**Backend Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+</p>
+
+**Databases & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+### 🏆 Featured Projects
+
+#### ⚡ **bigDataACID (Database Optimization)**
+*Engineered a high-performance system to process a 2 million row dataset.*
+* **Tech:** Node.js, Express, PostgreSQL, Docker.
+* **Highlight:** Implemented advanced SQL indexing/query optimization to ensure ACID compliance and reduce latency.
+
+#### 🔐 **MintFiat (Fintech Backend)**
+*Secure trading platform backend integrating PayPal/Revolut APIs.*
+* **Tech:** Node.js, Express, MongoDB, Redis.
+* **Highlight:** ISO-compliant data handling ensuring secure financial transactions.
+
+#### 🎵 **Linux Audio Compressor**
+*Multi-threaded GUI application for high-performance MP3 compression.*
+* **Tech:** C, Multithreading, LibGTK.
+* **Highlight:** Optimized memory management and processing speed (StackUp Challenge Runner-up).
+
+#### 🤖 **Sudo (AI-Powered Blog Platform)**
+*Blogging platform featuring Role-Based Access Control (RBAC) and WebSockets.*
+* **Tech:** NestJS, React, MongoDB.
+* **Highlight:** Implemented AI agents to automate user interactions.
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abd-al-qudus&show_icons=true&theme=radical&hide_border=true" alt="Qudus's Github Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-al-qudus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
