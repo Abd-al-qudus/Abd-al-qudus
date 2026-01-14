@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Qudus Ayomide Jimoh! 👋</h1>
-  <h3>Backend Software Engineer | API Security Specialist | Performance Optimizer</h3>
+  <h3>Backend Software Engineer | API Security Specialist </h3>
 
   <a href="https://www.linkedin.com/in/qudus-jimoh-576706258">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -15,10 +15,10 @@
 ### 🚀 About Me
 I am a **Backend Software Engineer** with over **3 years of experience** building scalable, secure, and high-performance systems. With a background in Civil Engineering (First Class Honors), I bring a strong analytical approach to system architecture and database design.
 
-* 🔭 I’m currently working on **High-frequency Fintech APIs and Database Optimization engines**.
-* 🛡️ I specialize in **API Security (OWASP Top 10)**, **RBAC**, and **Cryptography**.
-* ⚡ I have experience optimizing datasets with **2M+ records** and handling **100k+ users**.
-* 💬 Ask me about **Node.js, System Design, C Programming, and Database Indexing**.
+* 🔭 I’m currently working on **High-frequency Fintech APIs and AI-Powered CMS**.
+* 🛡️ I am experienced in **API Security (OWASP TOP 10)**.
+* ⚡ I have experience optimizing datasets with large **records** and handling **100k+ users**.
+* 💬 Ask me about **Node.js, Nest.js, Python, Java, System Design and C Programming**.
 
 ---
 
@@ -79,8 +79,5 @@ I am a **Backend Software Engineer** with over **3 years of experience** buildin
 ---
 
 ### 📈 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abd-al-qudus&show_icons=true&theme=radical&hide_border=true" alt="Qudus's Github Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-al-qudus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+![Qudus's Stats](https://github-readme-stats.vercel.app/api?username=Abd-al-qudus&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-al-qudus&layout=compact&theme=radical&hide_border=true)
