@@ -13,12 +13,14 @@
 ---
 
 ### 🚀 About Me
-I am a **Backend Software Engineer** with over **3 years of experience** building scalable, secure, and high-performance systems. With a background in Civil Engineering (First Class Honors), I bring a strong analytical approach to system architecture and database design.
+I am a **Backend Software Engineer** with **3+ years of professional experience** architecting scalable, secure, and high-performance systems. My engineering journey began **5+ years ago**, giving me a deep foundation in multiple languages including **Python, C, Java, and Dart**.
 
-* 🔭 I’m currently working on **High-frequency Fintech APIs and AI-Powered CMS**.
-* 🛡️ I am experienced in **API Security (OWASP TOP 10)**.
-* ⚡ I have experience optimizing datasets with large **records** and handling **100k+ users**.
-* 💬 Ask me about **Node.js, Nest.js, Python, Java, System Design and C Programming**.
+* 🎓 **Background:** I hold a First Class Honors degree in **Civil Engineering**.
+* ☁️ **Infrastructure:** Experienced in deploying to **GCP, Vercel, Render, and Railway**.
+* 🔌 **Integrations:** Expert in weaving complex third-party services into seamless applications, including **OAuth, Google Maps, Payment Gateways, and Mailing Services**.
+* 🔭 **I’m currently working on **High-frequency Fintech APIs, Real Estate Property Management apps and AI-Powered CMS**.
+* 🛡️ **I am experienced in **API Security (OWASP TOP 10)**.
+* ⚡ **I have experience optimizing datasets with large **records** and handling **traffics**.
 
 ---
 
@@ -56,25 +58,57 @@ I am a **Backend Software Engineer** with over **3 years of experience** buildin
 
 ### 🏆 Featured Projects
 
+#### 🏠 **Airbnb Clone (DevOps & Full Stack)**
+*A full-stack replica of Airbnb deployed on a robust infrastructure.*
+* **Tech:** Python (Flask), MySQL, Puppet, Bash, Nginx, Datadog. [github]
+* **Highlight:** Configured Master-Slave MySQL replication across two servers with a Load Balancer. Automated server provisioning using Puppet and established real-time monitoring with Datadog on a custom .tech domain.
+
+
+#### 🏘️ **edoorta (Property Management Platform)**
+*Architected a scalable REST API for a live property management system.*
+* **Tech:** Node.js, Express.js, MongoDB ![live](https://www.edqorta.com)
+* **Highlight:** Implemented secure JWT/OAuth authentication and integrated third-party payment gateways for real-time transactions.
+
+#### 🐚 **Simple Shell (Linux System Programming)**
+*A simplified Unix command line interpreter built from scratch.*
+* **Tech:** C Programming, Linux System Calls, Process Management. [github]
+* **Highlight:** Replicated core Bash functionality, handling memory management and system execution paths manually.
+
+#### 🧱 **Monty (Bytecode Interpreter)**
+*Custom interpreter for Monty Scripting Language files.*
+* **Tech:** C Programming, Stacks (LIFO), Queues (FIFO). [github]
+* **Highlight:** Built a custom parser and opcode execution engine to handle complex data structures and memory manipulation.
+
 #### ⚡ **bigDataACID (Database Optimization)**
 *Engineered a high-performance system to process a 2 million row dataset.*
-* **Tech:** Node.js, Express, PostgreSQL, Docker.
+* **Tech:** Node.js, Express, PostgreSQL, Docker ![live](https://bigdataacid.onrender.com/)
 * **Highlight:** Implemented advanced SQL indexing/query optimization to ensure ACID compliance and reduce latency.
 
 #### 🔐 **MintFiat (Fintech Backend)**
 *Secure trading platform backend integrating PayPal/Revolut APIs.*
-* **Tech:** Node.js, Express, MongoDB, Redis.
+* **Tech:** Node.js, Express, MongoDB, Redis. ![live](https://mintfiat.finance/)
 * **Highlight:** ISO-compliant data handling ensuring secure financial transactions.
 
 #### 🎵 **Linux Audio Compressor**
 *Multi-threaded GUI application for high-performance MP3 compression.*
-* **Tech:** C, Multithreading, LibGTK.
+* **Tech:** C, Multithreading, LibGTK. [github]
 * **Highlight:** Optimized memory management and processing speed (StackUp Challenge Runner-up).
 
 #### 🤖 **Sudo (AI-Powered Blog Platform)**
 *Blogging platform featuring Role-Based Access Control (RBAC) and WebSockets.*
-* **Tech:** NestJS, React, MongoDB.
+* **Tech:** NestJS, React, MongoDB ![live](https://sudo-gamma.vercel.app/)
 * **Highlight:** Implemented AI agents to automate user interactions.
+
+#### 🤖 **Kash (Fintech Bot)**
+*Transaction management chatbot on WhatsApp & Telegram.*
+* **Tech:** NestJS, Express.js, MongoDB, Privy, PalmPay. [telegram]
+* **Highlight:** Integrated secure payment gateways to facilitate both local fiat and cryptocurrency operations.
+
+#### 📚 **e_readily (E-book Platform API)**
+*A dedicated API to manage online ebook reading and digital libraries.*
+* **Tech:** Firebase, Node.js, Cloud Firestore. [github]
+* **Highlight:** Leveraged Firebase services for real-time data management, secure authentication, and scalable content delivery.
+
 
 ---
 
