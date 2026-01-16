@@ -66,7 +66,7 @@ I am a **Backend Software Engineer** with **3+ years of professional experience 
 
 #### 🏘️ **edoorta (Property Management Platform)**
 *Architected a scalable REST API for a live property management system.*
-* **Tech:** Node.js, Express.js, MongoDB ![live](https://www.edqorta.com)
+* **Tech:** Node.js, Express.js, MongoDB (https://www.edqorta.com)
 * **Highlight:** Implemented secure JWT/OAuth authentication and integrated third-party payment gateways for real-time transactions.
 
 #### 🐚 **Simple Shell (Linux System Programming)**
@@ -81,12 +81,12 @@ I am a **Backend Software Engineer** with **3+ years of professional experience 
 
 #### ⚡ **bigDataACID (Database Optimization)**
 *Engineered a high-performance system to process a 2 million row dataset.*
-* **Tech:** Node.js, Express, PostgreSQL, Docker ![live](https://bigdataacid.onrender.com/)
+* **Tech:** Node.js, Express, PostgreSQL, Docker (https://bigdataacid.onrender.com/)
 * **Highlight:** Implemented advanced SQL indexing/query optimization to ensure ACID compliance and reduce latency.
 
 #### 🔐 **MintFiat (Fintech Backend)**
 *Secure trading platform backend integrating PayPal/Revolut APIs.*
-* **Tech:** Node.js, Express, MongoDB, Redis. ![live](https://mintfiat.finance/)
+* **Tech:** Node.js, Express, MongoDB, Redis. (https://mintfiat.finance/)
 * **Highlight:** ISO-compliant data handling ensuring secure financial transactions.
 
 #### 🎵 **Linux Audio Compressor**
@@ -96,7 +96,7 @@ I am a **Backend Software Engineer** with **3+ years of professional experience 
 
 #### 🤖 **Sudo (AI-Powered Blog Platform)**
 *Blogging platform featuring Role-Based Access Control (RBAC) and WebSockets.*
-* **Tech:** NestJS, React, MongoDB ![live](https://sudo-gamma.vercel.app/)
+* **Tech:** NestJS, React, MongoDB (https://sudo-gamma.vercel.app/)
 * **Highlight:** Implemented AI agents to automate user interactions.
 
 #### 🤖 **Kash (Fintech Bot)**
