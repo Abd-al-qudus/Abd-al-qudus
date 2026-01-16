@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-I am a **Backend Software Engineer** with **3+ years of professional experience** architecting scalable, secure, and high-performance systems. My engineering journey began **5+ years ago**, giving me a deep foundation in multiple languages including **Python, C, Java, and Dart**.
+I am a **Backend Software Engineer** with **3+ years of professional experience in Javascript & TypeScript** architecting scalable, secure, and high-performance systems. My engineering journey began **5+ years ago**, giving me a deep foundation in multiple languages including **Python, C, Java, and Dart**.
 
 * 🎓 **Background:** I hold a First Class Honors degree in **Civil Engineering**.
 * ☁️ **Infrastructure:** Experienced in deploying to **GCP, Vercel, Render, and Railway**.
