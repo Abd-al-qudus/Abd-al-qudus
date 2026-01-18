@@ -115,5 +115,8 @@ I am a **Backend Software Engineer** with **3+ years of professional experience 
 ---
 
 ### 📈 GitHub Stats
-![Qudus's Stats](https://github-readme-stats.vercel.app/api?username=Abd-al-qudus&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-al-qudus&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abd-al-qudus&show_icons=true&theme=radical&hide_border=true" alt="Qudus's Github Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-al-qudus&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" />
+</div>
