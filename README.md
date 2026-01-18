@@ -18,9 +18,9 @@ I am a **Backend Software Engineer** with **3+ years of professional experience 
 * 🎓 **Background:** I hold a First Class Honors degree in **Civil Engineering**.
 * ☁️ **Infrastructure:** Experienced in deploying to **GCP, Vercel, Render, and Railway**.
 * 🔌 **Integrations:** Expert in weaving complex third-party services into seamless applications, including **OAuth, Google Maps, Payment Gateways, and Mailing Services**.
-* 🔭 **I’m currently working on **High-frequency Fintech APIs, Real Estate Property Management apps and AI-Powered CMS**.
-* 🛡️ **I am experienced in **API Security (OWASP TOP 10)**.
-* ⚡ **I have experience optimizing datasets with large **records** and handling **traffics**.
+* 🔭 I’m currently working on **High-frequency Fintech APIs, Real Estate Property Management apps and AI-Powered CMS**.
+* 🛡️ I am experienced in **API Security (OWASP TOP 10)**.
+* ⚡ I have experience optimizing datasets with large **records** and handling **traffics**.
 
 ---
 
@@ -66,7 +66,7 @@ I am a **Backend Software Engineer** with **3+ years of professional experience 
 * **Highlight:** Configured Master-Slave MySQL replication across two servers with a Load Balancer. Automated server provisioning using Puppet and established real-time monitoring with Datadog on a custom .tech domain.
 
 
-#### 🏘️ **edoorta (Property Management Platform)**
+#### 🏘️ **edQorta (Property Management Platform)**
 *Architected a scalable REST API for a live property management system.*
 * **Tech:** Node.js, Express.js, MongoDB (https://www.edqorta.com)
 * **Highlight:** Implemented secure JWT/OAuth authentication and integrated third-party payment gateways for real-time transactions.
