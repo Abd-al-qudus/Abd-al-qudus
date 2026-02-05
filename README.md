@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-I am a **Backend Software Engineer** with **3+ years of professional experience in Javascript & TypeScript** architecting scalable, secure, and high-performance systems. My engineering journey began **5+ years ago**, giving me a deep foundation in multiple languages including **Python, C, Java, and Dart**.
+I am a **Backend Software Engineer** with **3+ years of professional experience in Javascript & TypeScript** architecting scalable, secure, and high-performance systems. My engineering journey began **6+ years ago**, giving me a deep foundation in multiple languages including **Python, C, Java, and Dart**.
 
 * 🎓 **Background:** I hold a First Class Honors degree in **Civil Engineering**.
 * ☁️ **Infrastructure:** Experienced in deploying to **GCP, Vercel, Render, and Railway**.
@@ -60,11 +60,15 @@ I am a **Backend Software Engineer** with **3+ years of professional experience 
 
 ### 🏆 Featured Projects
 
+#### 🛡️ **Vault Engine (Secure Secret Manager)**
+*A high-security vault for managing environment variables with military-grade encryption.*
+* **Tech:** NestJS, PostgreSQL, Redis, Advanced Encryption Standard. (https://vault-frontend-three-mauve.vercel.app/)
+* **Highlight:** Engineered a custom credentials and .env secret encryption engine using **High Grade Encryption** with unique random IVs to prevent **Known-Plaintext Attacks**, ensuring zero-knowledge privacy for stored secret.
+
 #### 🏠 **Airbnb Clone (DevOps & Full Stack)**
 *A full-stack replica of Airbnb deployed on a robust infrastructure.*
 * **Tech:** Python (Flask), MySQL, Puppet, Bash, Nginx, Datadog. [github]
 * **Highlight:** Configured Master-Slave MySQL replication across two servers with a Load Balancer. Automated server provisioning using Puppet and established real-time monitoring with Datadog on a custom .tech domain.
-
 
 #### 🏘️ **edQorta (Property Management Platform)**
 *Architected a scalable REST API for a live property management system.*
